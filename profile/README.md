@@ -40,7 +40,6 @@
 |         Vits         |             https://github.com/CjangCjengh/vits              |
 |    Fish Diffusion    |         https://github.com/fishaudio/fish-diffusion          |
 |       DDSP-SVC       |              https://github.com/yxlllc/DDSP-SVC              |
-|       Diff-SVC       |            https://github.com/prophesier/diff-svc            |
 |         RVC          | https://github.com/liujing04/Retrieval-based-Voice-Conversion-WebUI |
 |      DiffSinger      |            https://github.com/openvpi/DiffSinger             |
 | OpenUTAU Remote Host |      https://github.com/fishaudio/openutau-remote-host       |
