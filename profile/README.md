@@ -2,13 +2,14 @@
 
 ### 组织信息
 
-|        类别         |                             信息                             |
-| :-----------------: | :----------------------------------------------------------: |
-|     组织创始人      | [红血球AE3803 (Erythrocyte3803)](https://github.com/Erythrocyte3803) |
-|      组织邮箱       |                   aihobbyistorg@gmail.com                    |
-| 组织的Google Groups |           https://groups.google.com/g/ai-hobbyist            |
-|        二次元AI爱好者交流群         | [点击链接加入群聊【二次元AI爱好者交流群】](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=CiT-OHAATzKGbqLWIM557vEqkXgzcwr5&authKey=lWuy7Dmi00QI56b%2FgXO50YxE1WHzlzGAbd5hx4kvVb2Dpqu2c0Evp25kTzZdoOka&noverify=0&group_code=309046913) |
-|   炼丹师交流社区    |                   https://www.ai-lab.top/                    |
+|        类别         |                             信息                             |                             备注                             |
+| :-----------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+|     组织创始人      | [红血球AE3803 (Erythrocyte3803)](https://github.com/Erythrocyte3803) |  |
+|      组织邮箱       |                   aihobbyistorg@gmail.com                    |                                       |
+| 组织的Google Groups |           https://groups.google.com/g/ai-hobbyist            |                       |
+|        二次元AI爱好者交流群         | [点击链接加入群聊【二次元AI爱好者交流群】](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=CiT-OHAATzKGbqLWIM557vEqkXgzcwr5&authKey=lWuy7Dmi00QI56b%2FgXO50YxE1WHzlzGAbd5hx4kvVb2Dpqu2c0Evp25kTzZdoOka&noverify=0&group_code=309046913) |  |
+| SVS/SVC/TTS创作者技术交流 | [点击链接加入群聊【SVS/SVC/TTS创作者技术交流】](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=Yu3IFMTl9mdgvfvRqeWML7sUsIDIQDgO&authKey=Kqydv8fB4txj%2FwsKzfiT6XOh9r2AGqHFwKVZ2wsIyzRO3dMmQE8RAkWtJvTxCpGV&noverify=0&group_code=780107284) | 需提供B站UID以及作品并审核入群 |
+|   炼丹师交流社区    |                   https://www.ai-lab.top/                    |                                       |
 
 ## 介绍
 
