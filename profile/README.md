@@ -29,8 +29,8 @@
 
 |       项目名称       |                           仓库地址                           |                             备注                             |
 | :------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|    星穹铁道数据集    |  [传送门](https://github.com/AI-Hobbyist/StarRail_Datasets)  | 星穹铁道AI的训练数据集+标注，语音均从游戏中提取，并且会随着版本更新 |
-| 星穹铁道语音分类脚本 | [传送门](https://github.com/AI-Hobbyist/StarRail_Voice_Sorting_Scripts) |                  用于分类提取的星穹铁道语音                  |
+|    星穹铁道数据集    |  [传送门](https://github.com/AI-Hobbyist/StarRail_Datasets)  | 星穹铁道AI的训练数据集+标注，会随着版本更新 |
+| 星穹铁道语音分类脚本 | [传送门](https://github.com/AI-Hobbyist/StarRail_Voice_Sorting_Scripts) |                  星穹铁道语音分类                 |
 |  AI二次创作专用模型  |       [传送门](https://github.com/AI-Hobbyist/Models)        |          组织内已经训练好的模型，可以用来进行AI二创          |
 
 ### 常用项目
