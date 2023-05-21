@@ -36,6 +36,7 @@
 |    星穹铁道数据集    |  [传送门](https://github.com/AI-Hobbyist/StarRail_Datasets)  | 星穹铁道AI的训练数据集+标注，会随着版本更新 |
 |    原神数据集    |  [传送门](https://github.com/AI-Hobbyist/Genshin_Datasets) | 原神AI的训练数据集+标注，会随着版本更新 |
 |  AI二次创作专用模型  |       [传送门](https://model.ai-lab.top/)        |          组织内已经训练好的模型，可以用来进行AI二创          |
+| 盗版插件贩子黑名单 | [传送门](https://github.com/AI-Hobbyist/Blacklist-of-Audio-Tools-Sharing) | 用于曝光那些利用学习版盈利的平台 |
 
 ### 常用项目
 
@@ -53,13 +54,5 @@
 
 **以下列出的均为盗版插件贩子，建议见到就拉黑，避免花冤枉钱。有能力请支持正版！该列表随时更新**
 
-|  UP主名称  |                    空间地址                     |        原因        |
-| :--------: | :---------------------------------------------: | :----------------: |
-|  瑶柯传媒  | [传送门](https://space.bilibili.com/475657938k) | 收费下载学习版插件 |
-|  音频汁源  | [传送门](https://space.bilibili.com/455669071)  | 收费下载学习版插件 |
-|  LOVE_DLM  | [传送门](https://space.bilibili.com/1303162882) | 收费下载学习版插件 |
-| 九鸿音频网 | [传送门](https://space.bilibili.com/317479469)  | 收费下载学习版插件 |
+**详见：**[https://blk.ai-lab.top/](https://blk.ai-lab.top/)
 
-> 1. 如果已有以上平台的VIP，建议将所有资源下载下来并免费分享；
-> 2. 如果没有以上平台VIP，建议别再给他们送钱了，纯纯的智商税，浪费钱财；
-> 3. 如果有必要，可以向正版官网反馈，从源头制止盗版插件贩子。
