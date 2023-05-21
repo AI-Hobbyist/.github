@@ -36,7 +36,7 @@
 |    星穹铁道数据集    |  [传送门](https://github.com/AI-Hobbyist/StarRail_Datasets)  | 星穹铁道AI的训练数据集+标注，会随着版本更新 |
 |    原神数据集    |  [传送门](https://github.com/AI-Hobbyist/Genshin_Datasets) | 原神AI的训练数据集+标注，会随着版本更新 |
 |  AI二次创作专用模型  |       [传送门](https://model.ai-lab.top/)        |          组织内已经训练好的模型，可以用来进行AI二创          |
-| 盗版插件贩子黑名单 | [传送门](https://github.com/AI-Hobbyist/Blacklist-of-Audio-Tools-Sharing) | 用于曝光那些利用学习版盈利的平台 |
+| 盗版插件贩子黑名单 | [传送门](https://blk.ai-lab.top) | 用于曝光那些利用学习版盈利的平台 |
 
 ### 常用项目
 
