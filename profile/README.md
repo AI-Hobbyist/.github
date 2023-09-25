@@ -35,14 +35,15 @@
 | :------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |    星穹铁道数据集    |  [传送门](https://github.com/AI-Hobbyist/StarRail_Datasets)  | 星穹铁道AI的训练数据集+标注，会随着版本更新 |
 |    原神数据集    |  [传送门](https://github.com/AI-Hobbyist/Genshin_Datasets) | 原神AI的训练数据集+标注，会随着版本更新 |
-|  AI二次创作专用模型  |       [传送门](https://www.ai-lab.top/)        |          组织内已经训练好的模型，可以用来进行AI二创          |
-| 盗版插件贩子黑名单 | [传送门](https://blk.ai-lab.top) | 用于曝光那些利用学习版盈利的平台 |
+|  AI二次创作专用模型  |       [传送门](https://www.ai-hobbyist.org/)        |          组织内已经训练好的模型，可以用来进行AI二创          |
+| 盗版插件贩子黑名单 | [传送门](https://blk.ai-hobbyist.org) | 用于曝光那些利用学习版盈利的平台 |
 
 ### 常用项目
 
 |         名称         |                             仓库                             |
 | :------------------: | :----------------------------------------------------------: |
 |         Vits         |             https://github.com/CjangCjengh/vits              |
+|         Bert-Vits         |             https://github.com/fishaudio/Bert-VITS2|
 |    Fish Diffusion    |         https://github.com/fishaudio/fish-diffusion          |
 |       DDSP-SVC       |              https://github.com/yxlllc/DDSP-SVC              |
 |       Diffusion-SVC       |             https://github.com/CNChTu/Diffusion-SVC             |
@@ -55,5 +56,5 @@
 
 **以下列出的均为盗版插件贩子，建议见到就拉黑，避免花冤枉钱。有能力请支持正版！该列表随时更新**
 
-**详见：**[https://blk.ai-lab.top/](https://blk.ai-lab.top/)
+**详见：**[https://blk.ai-hobbyist.org/](https://blk.ai-hobbyist.org/)
 
