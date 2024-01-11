@@ -6,7 +6,7 @@
 | :-----------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |     组织创始人      | [红血球AE3803 (Erythrocyte3803)](https://github.com/Erythrocyte3803) |  |
 |      组织邮箱       |                   aihobbyistorg@gmail.com                    |                                       |
-|        AI Hobbyist总群         | [点击链接加入群聊【AI Hobbyist总群】]([http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=CiT-OHAATzKGbqLWIM557vEqkXgzcwr5&authKey=lWuy7Dmi00QI56b%2FgXO50YxE1WHzlzGAbd5hx4kvVb2Dpqu2c0Evp25kTzZdoOka&noverify=0&group_code=309046913](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=yH2t7_Hk_U9v_sngJOnnvUwCDg3jzM6t&authKey=pAP301KgpwMXlgJr49j%2FwhgEMFQkOQL9ZnU7SJtmthjIRMLPp4PXmtMAHfUwYkXU&noverify=0&group_code=704917458)|  |
+|        AI Hobbyist总群         | [点击链接加入群聊【AI Hobbyist总群】](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=yH2t7_Hk_U9v_sngJOnnvUwCDg3jzM6t&authKey=pAP301KgpwMXlgJr49j%2FwhgEMFQkOQL9ZnU7SJtmthjIRMLPp4PXmtMAHfUwYkXU&noverify=0&group_code=704917458)|  |
 | AI Hobbyist QQ频道 | [点击链接加入QQ频道【AI Hobbyist】](https://pd.qq.com/s/8c2wkdwyl) | |
 | SVS/SVC/TTS创作者技术交流 | [点击链接加入群聊【SVS/SVC/TTS创作者技术交流】](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=Yu3IFMTl9mdgvfvRqeWML7sUsIDIQDgO&authKey=Kqydv8fB4txj%2FwsKzfiT6XOh9r2AGqHFwKVZ2wsIyzRO3dMmQE8RAkWtJvTxCpGV&noverify=0&group_code=780107284) | 需提供B站UID以及作品并审核入群 |
 | diffusion-svc交流群 | [点击链接加入群聊【diffusion-svc交流群】](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=KM1weNmIWGE-sQnFRkwNGDdhH-Mm9ruS&authKey=nYE7C28ibJZzDHhStgU2AoKBLYmkUXFHHuETNQQM4%2Fth6mADmUR9fyHCd4QdNFMF&noverify=0&group_code=608107671) |  |
