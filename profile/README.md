@@ -48,7 +48,8 @@
 
 ### 长期计划
 
-开发出一个方便爱好者使用的生成式人工智能API管理平台，开源且永久免费使用。
+1. 开发出一个方便爱好者使用的生成式人工智能API管理平台，开源且永久免费使用。
+2. 开设 AI-Hobbyist 旗下的我的世界服务器（目前计划中，详见：[服务器群](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=bmgDC8MHNa40BRHcf5pbeTVDlbEnFQHR&authKey=cS0071SS73A%2BNCThiFTBK%2FTrHIlNFkosUQyXk5EptETxd2BbGHh7Ejw3Fj00C0WE&noverify=0&group_code=745587195)）
 ### 作品展示
 
 |                       名称                       |                           作者                           |                        观看地址                         |
