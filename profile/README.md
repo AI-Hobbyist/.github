@@ -10,7 +10,7 @@
 | AI Hobbyist QQ频道 | [点击链接加入QQ频道【AI Hobbyist】](https://pd.qq.com/s/8c2wkdwyl) | |
 | SVS/SVC/TTS创作者技术交流 | [点击链接加入群聊【SVS/SVC/TTS创作者技术交流】](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=Yu3IFMTl9mdgvfvRqeWML7sUsIDIQDgO&authKey=Kqydv8fB4txj%2FwsKzfiT6XOh9r2AGqHFwKVZ2wsIyzRO3dMmQE8RAkWtJvTxCpGV&noverify=0&group_code=780107284) | 已开放 |
 | diffusion-svc交流群 | [点击链接加入群聊【diffusion-svc交流群】](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=KM1weNmIWGE-sQnFRkwNGDdhH-Mm9ruS&authKey=nYE7C28ibJZzDHhStgU2AoKBLYmkUXFHHuETNQQM4%2Fth6mADmUR9fyHCd4QdNFMF&noverify=0&group_code=608107671) |  |
-|   模型整合站    | [https://www.ai-hobbyist.org/](https://www.ai-hobbyist.org/) |                                       |
+|   模型整合站    | [https://www.ai-hobbyist.org/](https://www.ai-hobbyist.com/) |                                       |
 |   模型&数据集网盘    | [https://pan.ai-hobbyist.org/](https://pan.ai-hobbyist.org/) |        |
 ### 介绍
 
@@ -66,7 +66,7 @@
 | :------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |    星穹铁道数据集    |  [传送门](https://github.com/AI-Hobbyist/StarRail_Datasets)  | 星穹铁道AI的训练数据集+标注，会随着版本更新 |
 |    原神数据集    |  [传送门](https://github.com/AI-Hobbyist/Genshin_Datasets) | 原神AI的训练数据集+标注，会随着版本更新 |
-|  AI二次创作专用模型  |       [传送门](https://www.ai-hobbyist.org/)        |          组织内已经训练好的模型，可以用来进行AI二创          |
+|  AI二次创作专用模型  |       [传送门](https://www.ai-hobbyist.com/)        |          组织内已经训练好的模型，可以用来进行AI二创          |
 | 盗版插件贩子黑名单 | [传送门](https://blk.ai-hobbyist.org) | 用于曝光那些利用学习版盈利的平台 |
 
 ### 常用项目
@@ -88,5 +88,5 @@
 
 **以下列出的均为盗版插件贩子，建议见到就拉黑，避免花冤枉钱。有能力请支持正版！该列表随时更新**
 
-**详见：**[https://blk.ai-hobbyist.org/](https://blk.ai-hobbyist.org/)
+**详见：**[https://blk.ai-hobbyist.com/](https://blk.ai-hobbyist.com/)
 
