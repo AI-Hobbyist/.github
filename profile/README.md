@@ -20,30 +20,7 @@
 
 ### 计划
 
-注：打✓号的代表已完成
-
-- [x] 完成原神五国diffsinger模型训练
-  * [x] 蒙德
-  * [x] 璃月
-  * [x] 稻妻
-  * [x] 须弥
-  * [x] 枫丹
-- [ ] 制作原神 diffsinger 模型demo视频;
-  * [x] 芙宁娜中文翻唱《轻涟》
-  * [ ] 多角色合唱，曲目待定
-- [ ] 整理崩铁2.0中日英韩分角色+完整语音包;
-- [ ] 整理原神4.4中文分角色+完整语音包;
-- [ ] 训练原神4.4+崩铁1.6的中文特化版Bert-VITS2
-- [ ] 整理原神4.4日英分角色+完整语音包;
-- [ ] 完成原神五国GPT-SoVITS模型训练
-  * [ ] 蒙德
-  * [x] 璃月
-  * [x] 稻妻
-  * [x] 须弥
-  * [x] 枫丹
-- [ ] 训练原神4.4+崩铁2.0的中日英3国语言bert-vits2模型
-- [ ] 整理原神4.4韩语分角色+完整语音包；
-- [ ] 训练星穹铁道2.0 diffsinger 模型。
+**已迁移至：**[https://docs.qq.com/sheet/DR3V3SXNLVFJGQkZj?tab=4ju6x5](https://docs.qq.com/sheet/DR3V3SXNLVFJGQkZj?tab=4ju6x5)
 
 ### 长期计划
 
@@ -66,6 +43,7 @@
 | :------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |    星穹铁道数据集    |  [传送门](https://github.com/AI-Hobbyist/StarRail_Datasets)  | 星穹铁道AI的训练数据集+标注，会随着版本更新 |
 |    原神数据集    |  [传送门](https://github.com/AI-Hobbyist/Genshin_Datasets) | 原神AI的训练数据集+标注，会随着版本更新 |
+| 鸣潮数据集 | [传送门](https://github.com/AI-Hobbyist/WutheringWaves_Datasets) | 鸣潮AI的训练数据集+标注，会随着版本更新 |
 |  AI二次创作专用模型  |       [传送门](https://www.ai-hobbyist.com/)        |          组织内已经训练好的模型，可以用来进行AI二创          |
 | 盗版插件贩子黑名单 | [传送门](https://blk.ai-hobbyist.org) | 用于曝光那些利用学习版盈利的平台 |
 
