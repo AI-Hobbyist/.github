@@ -11,7 +11,8 @@
 | SVS/SVC/TTS创作者技术交流 | [点击链接加入群聊【SVS/SVC/TTS创作者技术交流】](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=Yu3IFMTl9mdgvfvRqeWML7sUsIDIQDgO&authKey=Kqydv8fB4txj%2FwsKzfiT6XOh9r2AGqHFwKVZ2wsIyzRO3dMmQE8RAkWtJvTxCpGV&noverify=0&group_code=780107284) | 已开放 |
 | diffusion-svc交流群 | [点击链接加入群聊【diffusion-svc交流群】](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=KM1weNmIWGE-sQnFRkwNGDdhH-Mm9ruS&authKey=nYE7C28ibJZzDHhStgU2AoKBLYmkUXFHHuETNQQM4%2Fth6mADmUR9fyHCd4QdNFMF&noverify=0&group_code=608107671) |  |
 |   模型整合站    | [https://www.ai-hobbyist.com/](https://www.ai-hobbyist.com/) |                                       |
-|   模型&数据集网盘    | [https://pan.ai-hobbyist.com/](https://pan.ai-hobbyist.org/) |        |
+|   模型&数据集网盘    | [https://pan.ai-hobbyist.com/](https://pan.ai-hobbyist.com/) |        |
+|   倒狗曝光、避雷    | [https://blk.ai-hobbyist.com/](https://blk.ai-hobbyist.com/) |        |
 ### 介绍
 
 这是由一群二次元/游戏二次创作爱好者一起建立的 **非盈利性组织**。对二次元以及游戏等等的二次创作充满了浓厚的兴趣，并且时常在哔哩哔哩活跃，也发布了不少作品。成员一般都喜欢用AI进行二次创作，例如 DiffSinger、RVC、Fish SVC、DDSP-SVC 等等AI声线转换/歌声合成项目。除此之外，我们也会对外公开一些模型、数据集等等，为二次创作爱好者提供素材。
@@ -45,7 +46,6 @@
 |    原神数据集    |  [传送门](https://github.com/AI-Hobbyist/Genshin_Datasets) | 原神AI的训练数据集+标注，会随着版本更新 |
 | 鸣潮数据集 | [传送门](https://github.com/AI-Hobbyist/WutheringWaves_Datasets) | 鸣潮AI的训练数据集+标注，会随着版本更新 |
 |  AI二次创作专用模型  |       [传送门](https://www.ai-hobbyist.com/)        |          组织内已经训练好的模型，可以用来进行AI二创          |
-| 盗版插件贩子黑名单 | [传送门](https://blk.ai-hobbyist.org) | 用于曝光那些利用学习版盈利的平台 |
 
 ### 常用项目
 
@@ -61,10 +61,4 @@
 |      DiffSinger      |            https://github.com/openvpi/DiffSinger             |
 | OpenUTAU Remote Host |      https://github.com/fishaudio/openutau-remote-host       |
 |       OpenUTAU       |            https://github.com/xunmengshe/OpenUtau            |
-
-### VST音源&插件下载避雷
-
-**以下列出的均为盗版插件贩子，建议见到就拉黑，避免花冤枉钱。有能力请支持正版！该列表随时更新**
-
-**详见：**[https://blk.ai-hobbyist.com/](https://blk.ai-hobbyist.com/)
 
