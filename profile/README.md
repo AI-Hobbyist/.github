@@ -4,7 +4,7 @@
 
 |        类别         |                             信息                             |                             备注                             |
 | :-----------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|     组织创始人      | [红血球AE3803 (Erythrocyte3803)](https://github.com/Erythrocyte3803) |  |
+|     组织创始人      | [红血球AE3803 (Erythrocyte3803)](https://github.com/Erythrocyte3803) | 自设：[点我查看](https://github.com/AI-Hobbyist/AIH-Founder-Character-Design) |
 |      组织邮箱       |                   aihobbyistorg@gmail.com                    |                                       |
 |        AI Hobbyist总群         | [点击链接加入群聊【AI Hobbyist总群】](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=yH2t7_Hk_U9v_sngJOnnvUwCDg3jzM6t&authKey=pAP301KgpwMXlgJr49j%2FwhgEMFQkOQL9ZnU7SJtmthjIRMLPp4PXmtMAHfUwYkXU&noverify=0&group_code=704917458)|  |
 | AI Hobbyist Discord | [https://discord.gg/eGzeMgYSPD](https://discord.gg/eGzeMgYSPD) | |
@@ -61,4 +61,5 @@
 |      DiffSinger      |            https://github.com/openvpi/DiffSinger             |
 | OpenUTAU Remote Host |      https://github.com/fishaudio/openutau-remote-host       |
 |       OpenUTAU       |            https://github.com/xunmengshe/OpenUtau            |
+
 
